@@ -1,5 +1,4 @@
 # LAND-POLLUTION-DETECTION-AND-REPORTING-SYSTEM-USING-MOBILENETV2
-# Indian Sign Language Detection using Deep Learning - A CNN Approach
 
 ## PROJECT OUTLINE:
 
@@ -9,10 +8,6 @@ The approach consists of gathering and preprocessing a collection of pollution p
 ## METHODOLOGY:
 
 This project develops a real-time Land Pollution Detection and Reporting System using deep learning and computer vision. A Convolutional Neural Network (CNN) is trained on a large dataset of annotated images showing varying pollution levels, using preprocessing and tuning techniques to improve accuracy. Integrated into a real-time framework, the system analyzes live video from CCTV and drones, identifying pollution across different environmental conditions. If pollution in any frame exceeds a 70% threshold, the system automatically sends alerts to authorities with pollution severity and exact location details, enabling prompt action. The system undergoes extensive testing in diverse environments to assess its real-world performance, with feedback used for ongoing improvements. Future plans include expanding to monitor air and water pollutants, enabling a broader environmental monitoring network. This project offers a scalable solution for pollution control and real-time environmental protection through proactive monitoring and timely reporting.
-
-### SAMPLE DATASET:
-<img height="400" alt="dataset" src="https://github.com/Aashima02/Indian-Sign-Language-Detection-using-Deep-Learning---A-CNN-Approach/assets/93427086/1340ab0b-0418-4a70-82a4-03ca07a6f864">
-
 
 ## REQUIREMENTS:
 
